@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My Programming Practice
 header-img: img/home-bg.png
 email: sdeckerm@gmail.com
 copyright_name: smdecker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Selected Thoughts 2017 - 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  smdecker
