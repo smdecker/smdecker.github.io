@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2018-08-13 04:30:57 +0000
+date:       2018-08-13 00:30:58 -0400
 permalink:  rails_portfolio_project
 ---
 
 
 For my rails app I decided to make an online radio platform. Essentially, users can browse the site for shows and its episodes, comment on and ‘favorite’ those episodes and explore associated genres. The actual creation of shows/episodes is restricted to admin only. (I’ll go into more detail about the ‘favorite’ function and genre tags below)
 
-I ended up using Devise and Google oAuth. However, it was difficult to find documentation on using Devise with Google oAuth. Eventually I came across a couple of helpful resources that I used together to accomplish this task. If anyone is interested in using Devise and Google oAuth, here are the resources that saved me some time and frustration: https://www.interexchange.org/articles/engineering/lets-devise-google-oauth-login/ & https://github.com/zquestz/omniauth-google-oauth2
+I ended up using Devise and Google oAuth. However, it was difficult to find documentation on using Devise with Google oAuth. Eventually I came across a couple of helpful resources that I used together to accomplish this task. If anyone is interested in using Devise and Google oAuth, here are the resources that saved me some time and frustration: [https://www.interexchange.org/articles/engineering/lets-devise-google-oauth-login/](https://www.interexchange.org/articles/engineering/lets-devise-google-oauth-login/) & [https://github.com/zquestz/omniauth-google-oauth2](https://github.com/zquestz/omniauth-google-oauth2)
 
 **The root of my app displays three sections:**
 - Recommendations that are determined by admin ‘favorites’
